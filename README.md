@@ -45,29 +45,19 @@ Questions to answer:
 2- What kinds of properties are associated with movies that have high revenues?
 
 SAMPLES OF CODE:
-<BR>
-*******************************************************<BR>
-<BR>
+
 
 ![](https://user-images.githubusercontent.com/11509483/91175485-2c17aa80-e6e1-11ea-9156-7af5dfb76dca.png)
 
-<BR>
-*******************************************************<BR>
-<BR>
+
 ![](https://user-images.githubusercontent.com/11509483/91175490-2d48d780-e6e1-11ea-885f-bc18d7c394f6.png)
 
-<BR>
-*******************************************************<BR>
-<BR>
+
 ![](https://user-images.githubusercontent.com/11509483/91175491-2de16e00-e6e1-11ea-8d1a-63596dacaf5c.png)
 
-<BR>
-*******************************************************<BR>
-<BR>
+
 ![](https://user-images.githubusercontent.com/11509483/91175495-2e7a0480-e6e1-11ea-887f-71e9f41d70d3.png)
 
-<BR>
-*******************************************************<BR>
-<BR>
+
 ![](https://user-images.githubusercontent.com/11509483/91175496-2f129b00-e6e1-11ea-9049-689e98b52031.png)
 
